@@ -1,3 +1,5 @@
+package banco;
+
 public class contaBancaria {
     //atributos
     private String titular;

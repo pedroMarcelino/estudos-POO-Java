@@ -1,3 +1,5 @@
+package banco;
+
 public class Agencia {
     public static void main(String[] args) {
         contaBancaria minhaConta = new contaBancaria("Pedro Marcelino", 5000);
