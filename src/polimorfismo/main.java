@@ -17,5 +17,8 @@ public class main {
         System.out.println(totalInt);
         System.out.println(totalDouble);
         System.out.println(totalInteger);
+
+        carro fusca = new carro();
+        fusca.mover();
     }
 }
