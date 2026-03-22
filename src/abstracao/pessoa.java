@@ -1,0 +1,11 @@
+package abstracao;
+
+public interface pessoa {
+    String getNome() ;
+    void setNome (String nome);
+
+    String getDocumento();
+    void setDocumento(String setDocumento);
+
+    void mostrarEnderecoFuncionario();
+}
